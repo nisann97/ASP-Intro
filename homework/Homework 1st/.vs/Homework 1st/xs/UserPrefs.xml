@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{9536B86D-A572-4398-8213-BBB5AB92CC4E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework_2201st PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework 1st/Controllers/BookController.cs">
+    <Files>
+      <File FileName="Homework 1st/Models/User.cs" />
+      <File FileName="Homework 1st/Models/BaseEntity.cs" />
+      <File FileName="Homework 1st/Models/Book.cs" />
+      <File FileName="Homework 1st/Models/Employee.cs" Line="6" Column="8" />
+      <File FileName="Homework 1st/Models/Product.cs" Line="6" Column="7" />
+      <File FileName="Homework 1st/Controllers/UserController.cs" Line="20" Column="13" />
+      <File FileName="Homework 1st/Program.cs" />
+      <File FileName="Homework 1st/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Homework 1st/Views/User/Index.cshtml" Line="1" Column="18" />
+      <File FileName="Homework 1st/ViewModels/UserVM.cs" Line="2" Column="1" />
+      <File FileName="Homework 1st/Controllers/EmployeeController.cs" Line="32" Column="34" />
+      <File FileName="Homework 1st/Views/Employee/Index.cshtml" Line="16" Column="20" />
+      <File FileName="Homework 1st/ViewModels/EmployeeVM.cs" Line="10" Column="37" />
+      <File FileName="Homework 1st/Controllers/ProductController.cs" Line="33" Column="33" />
+      <File FileName="Homework 1st/ViewModels/ProductVM.cs" Line="9" Column="39" />
+      <File FileName="Homework 1st/Views/Product/Index.cshtml" Line="22" Column="36" />
+      <File FileName="Homework 1st/Controllers/BookController.cs" Line="29" Column="30" />
+      <File FileName="Homework 1st/ViewModels/BookVM.cs" Line="6" Column="21" />
+      <File FileName="Homework 1st/Views/Book/Index.cshtml" Line="11" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework 1st">
+            <Node name="Homework 1st">
+              <Node name="Controllers">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views">
+                <Node name="Book" expanded="True" />
+                <Node name="Employee" expanded="True" />
+                <Node name="Product" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

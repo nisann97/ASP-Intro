@@ -26,3 +26,31 @@
 /Users/nisa.nn/Desktop/programming/27 aprel/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.pdb
 /Users/nisa.nn/Desktop/programming/27 aprel/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.genruntimeconfig.cache
 /Users/nisa.nn/Desktop/programming/27 aprel/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/ref/Homework 1st.dll
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/appsettings.Development.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/appsettings.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/Homework 1st
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/Homework 1st.deps.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/Homework 1st.runtimeconfig.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/Homework 1st.dll
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/bin/Debug/net6.0/Homework 1st.pdb
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.csproj.AssemblyReference.cache
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.AssemblyInfoInputs.cache
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.AssemblyInfo.cs
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.csproj.CoreCompileInputs.cache
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.MvcApplicationPartsAssemblyInfo.cache
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.RazorAssemblyInfo.cache
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.RazorAssemblyInfo.cs
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets/msbuild.Homework 1st.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets/msbuild.build.Homework 1st.props
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Homework 1st.props
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Homework 1st.props
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets.build.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/staticwebassets.development.json
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/scopedcss/bundle/Homework 1st.styles.css
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.dll
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/refint/Homework 1st.dll
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.pdb
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/Homework 1st.genruntimeconfig.cache
+/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/Debug/net6.0/ref/Homework 1st.dll

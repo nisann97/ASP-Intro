@@ -1,7 +1,7 @@
 ﻿using System;
-namespace Homework_1st.Models
+namespace Homework_1st.ViewModels
 {
-	public class Product : BaseEntity
+	public class ProductVM
 	{
         public string Name { get; set; }
         public string Description { get; set; }

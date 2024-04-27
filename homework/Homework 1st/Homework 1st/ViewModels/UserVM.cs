@@ -1,12 +1,14 @@
 ﻿using System;
-using Homework_1st.Models;
-using Homework_1st.Models;
+
 
 namespace Homework_1st.ViewModels
 {
 	public class UserVM
 	{
-        List<User> users { get; set; }
+        public string FullName { get; set; }
+        public string Address { get; set; }
+        public int Age { get; set; }
+        public string Email { get; set; }
     }
 }
 

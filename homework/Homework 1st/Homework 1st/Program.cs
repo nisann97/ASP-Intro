@@ -6,7 +6,7 @@ var app = builder.Build();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=home}/{action=index}"
+    pattern: "{controller}/{action}"
     );
 
 app.Run();

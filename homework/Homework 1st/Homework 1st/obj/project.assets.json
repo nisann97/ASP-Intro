@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nisa.nn/Desktop/programming/27 aprel/homework/Homework 1st/Homework 1st/Homework 1st.csproj",
+      "projectUniqueName": "/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/Homework 1st.csproj",
       "projectName": "Homework 1st",
-      "projectPath": "/Users/nisa.nn/Desktop/programming/27 aprel/homework/Homework 1st/Homework 1st/Homework 1st.csproj",
+      "projectPath": "/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/Homework 1st.csproj",
       "packagesPath": "/Users/nisa.nn/.nuget/packages/",
-      "outputPath": "/Users/nisa.nn/Desktop/programming/27 aprel/homework/Homework 1st/Homework 1st/obj/",
+      "outputPath": "/Users/nisa.nn/Desktop/untitled folder 3/ASP-Intro/homework/Homework 1st/Homework 1st/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nisa.nn/.nuget/NuGet/NuGet.Config"
@@ -26,7 +26,7 @@
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/sdk/7.0.315/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "/usr/local/share/dotnet/sdk/7.0.316/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.316/RuntimeIdentifierGraph.json"
       }
     }
   }

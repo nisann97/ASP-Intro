@@ -1,7 +1,8 @@
-﻿using System;
-namespace Homework_1st.Models
+﻿
+using System;
+namespace Homework_1st.ViewModels
 {
-	public class Employee : BaseEntity
+	public class EmployeeVM
 	{
         public string Name { get; set; }
         public string Surname { get; set; }
