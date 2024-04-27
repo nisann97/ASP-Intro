@@ -1,0 +1,46 @@
+﻿@using HW_intro.ViewModels
+
+
+
+
+
+@*@model List<string>
+
+
+    <ul>
+        @foreach(var item in Model)
+    {
+                <li>@item</li>
+    }
+    </ul>*@
+
+@*@model List<Student>
+
+    <ul>
+        @foreach (var item in Model)
+            {
+            <li>@(item.FullName + " " + item.Age)</li>
+        }
+    </ul>*@
+
+
+@*@model List<StudentVM>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.FullName</li>
+    }
+</ul>*@
+
+
+@model HomeVM
+
+<ul>
+    @foreach (var item in Model.Students)
+{
+            <li>@item.FullName</li>
+}
+    <h1>@Model.Book.Name</h1>
+
+</ul>
